@@ -1,0 +1,17 @@
+.set_logo{
+  /*padding: 20px !important;*/
+  height: 200px;
+}
+.top_links>li{
+  display:inline;
+}
+.top_links>li>a{
+font-size: x-large;
+color: cadetblue;
+text-underline-position: under;
+}
+.top_links{
+  margin-top: 107px;
+  margin-right: 550px;
+
+}
